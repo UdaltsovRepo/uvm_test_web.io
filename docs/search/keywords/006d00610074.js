@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mat",["Function"],[["match_scope",,[["uvm_resource_base",,,,0,"File6:uvm_resource.svh:uvm_resource_base.match_scope","SystemVerilogClass:uvm_resource_base:match_scope"]]]]);

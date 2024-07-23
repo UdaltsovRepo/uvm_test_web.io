@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File7:synchro.txt","synchro.txt");NDSummary.OnSummaryLoaded("File7:synchro.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[1533,0,0,"Synchronization Classes","Synchronization_Classes"]]);

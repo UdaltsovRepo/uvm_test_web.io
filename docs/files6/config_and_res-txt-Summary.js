@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File6:config_and_res.txt","config_and_res.txt");NDSummary.OnSummaryLoaded("File6:config_and_res.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[1731,0,0,"Configuration and Resource Classes","Configuration_and_Resource_Classes"]]);

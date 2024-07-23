@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SystemVerilogClass:uvm_post_configure_phase",{1870:"<div class=\"NDToolTip TClass LSystemVerilog\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1870\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">uvm_post_configure_phase</div></div></div><div class=\"TTSummary\">After the SW has configured the DUT.</div></div>"});

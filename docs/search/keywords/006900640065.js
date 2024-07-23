@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ide",["Variable"],[["identifier",,[["uvm_printer_knobs",,,,0,"File17:uvm_printer.svh:uvm_printer_knobs.identifier","SystemVerilogClass:uvm_printer_knobs:identifier"],["uvm_recorder",,,,0,"File17:uvm_recorder.svh:uvm_recorder.identifier","SystemVerilogClass:uvm_recorder:identifier"]]]]);

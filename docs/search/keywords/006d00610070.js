@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("map",["Variable"],[["map",,[["uvm_reg_item",,,,0,"File18:uvm_reg_item.svh:uvm_reg_item.map","SystemVerilogClass:uvm_reg_item:map"],["uvm_reg_predictor",,,,0,"File18:uvm_reg_predictor.svh:uvm_reg_predictor.map","SystemVerilogClass:uvm_reg_predictor:map"]]]]);

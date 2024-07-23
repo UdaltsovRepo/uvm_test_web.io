@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SystemVerilogClass:uvm_post_main_phase",{1873:"<div class=\"NDToolTip TClass LSystemVerilog\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1873\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">uvm_post_main_phase</div></div></div><div class=\"TTSummary\">After enough of the primary test stimulus.</div></div>"});

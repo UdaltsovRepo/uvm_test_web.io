@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ena",["Variable","Function"],[["enable_print_topology",,[["uvm_root",,,,0,"File2:uvm_root.svh:uvm_root.enable_print_topology","SystemVerilogClass:uvm_root:enable_print_topology"]]],["enable_recording",,[["uvm_transaction",,,,1,"File2:uvm_transaction.svh:uvm_transaction.enable_recording","SystemVerilogClass:uvm_transaction:enable_recording"]]]]);

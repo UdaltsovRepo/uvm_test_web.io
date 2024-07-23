@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File2:base.txt","base.txt");NDSummary.OnSummaryLoaded("File2:base.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[2167,0,0,"Core Base Classes","Core_Base_Classes"]]);

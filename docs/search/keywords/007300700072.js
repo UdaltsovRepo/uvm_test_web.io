@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("spr",["Function"],[["sprint",,[["uvm_object",,,,0,"File2:uvm_object.svh:uvm_object.sprint","SystemVerilogClass:uvm_object:sprint"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_agent","uvm_agent");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_agent",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1225,0,0,"uvm_agent"],[1226,0,2,"Functions","Functions"],[1227,0,1,"new","new"],[1228,0,1,"get_is_active","get_is_active"]]);

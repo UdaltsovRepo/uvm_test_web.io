@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File18:registers.txt","registers.txt");NDSummary.OnSummaryLoaded("File18:registers.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[377,0,0,"Register Layer","Register_Layer"]]);

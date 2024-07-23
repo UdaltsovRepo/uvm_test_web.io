@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("byt",["Variable"],[["byte_en",,[["uvm_reg_bus_op",,,,0,"File18:uvm_reg_item.svh:uvm_reg_bus_op.byte_en","SystemVerilogClass:uvm_reg_bus_op:byte_en"]]]]);

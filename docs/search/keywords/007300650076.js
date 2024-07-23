@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sev",["Variable"],[["sev",,[["uvm_comparer",,,,0,"File17:uvm_comparer.svh:uvm_comparer.sev","SystemVerilogClass:uvm_comparer:sev"]]]]);

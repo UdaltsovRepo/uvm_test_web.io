@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_tlm_nb_initiator_socket_base","uvm_tlm_nb_initiator_socket_base");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_tlm_nb_initiator_socket_base",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1297,0,0,"uvm_tlm_nb_initiator_socket_base"]]);

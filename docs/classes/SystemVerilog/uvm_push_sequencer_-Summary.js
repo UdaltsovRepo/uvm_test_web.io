@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_push_sequencer_","uvm_push_sequencer#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_push_sequencer_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[964,0,0,"uvm_push_sequencer #(REQ,RSP)"],[965,0,2,"Functions","Functions"],[966,0,1,"new","new"]]);

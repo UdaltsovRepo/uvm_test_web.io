@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_vreg_cbs","uvm_vreg_cbs");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_vreg_cbs",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Groups","Group"],["Types","Type"]],[[464,0,0,"uvm_vreg_cbs"],[465,0,1,"Types","Types"],[466,0,2,"uvm_vreg_cb","uvm_vreg_cb"],[467,0,2,"uvm_vreg_cb_iter","uvm_vreg_cb_iter"]]);

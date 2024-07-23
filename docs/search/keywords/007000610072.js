@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("par",["Variable"],[["parent",,[["uvm_reg_item",,,,0,"File18:uvm_reg_item.svh:uvm_reg_item.parent","SystemVerilogClass:uvm_reg_item:parent"]]],["parent_sequence",,[["uvm_reg_adapter",,,,0,"File18:uvm_reg_adapter.svh:uvm_reg_adapter.parent_sequence","SystemVerilogClass:uvm_reg_adapter:parent_sequence"]]]]);

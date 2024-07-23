@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_reg_shared_access_seq","uvm_reg_shared_access_seq");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_reg_shared_access_seq",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Groups","Group"],["Variables","Variable"]],[[160,0,0,"uvm_reg_shared_access_seq"],[161,0,1,"Variables","Variables"],[162,0,2,"rg","rg"]]);

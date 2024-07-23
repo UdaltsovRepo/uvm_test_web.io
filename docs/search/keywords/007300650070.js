@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sep",["Variable"],[["separator",,[["uvm_printer_knobs",,,,0,"File17:uvm_printer.svh:uvm_printer_knobs.separator","SystemVerilogClass:uvm_printer_knobs:separator"]]]]);

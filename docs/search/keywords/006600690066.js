@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fif",["Variable","Section"],[["fifo",,[["uvm_reg_fifo",,,,0,"File18:uvm_reg_fifo.svh:uvm_reg_fifo.fifo","SystemVerilogClass:uvm_reg_fifo:fifo"],[,"TLM FIFO Classes",,,1,"File9:uvm_tlm_fifos.svh:TLM_FIFO_Classes"]]]]);

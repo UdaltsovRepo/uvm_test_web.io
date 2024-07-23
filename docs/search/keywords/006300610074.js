@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cat",["Function"],[["catch",,[["uvm_report_catcher",,,,0,"File3:uvm_report_catcher.svh:uvm_report_catcher.catch","SystemVerilogClass:uvm_report_catcher:catch"]]]]);

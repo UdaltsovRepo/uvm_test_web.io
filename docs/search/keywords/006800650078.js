@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hex",["Variable"],[["hex_radix",,[["uvm_printer_knobs",,,,0,"File17:uvm_printer.svh:uvm_printer_knobs.hex_radix","SystemVerilogClass:uvm_printer_knobs:hex_radix"]]]]);

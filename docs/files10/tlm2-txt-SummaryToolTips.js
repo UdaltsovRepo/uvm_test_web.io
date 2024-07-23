@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File10:tlm2.txt",{1292:"<div class=\"NDToolTip TSection LTextFile\"><div class=\"TTSummary\">Sockets group together all the necessary core interfaces for transportation and binding, allowing more generic usage models than just TLM core interfaces.</div></div>"});

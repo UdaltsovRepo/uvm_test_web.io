@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SystemVerilogClass:uvm_connect_phase",{1748:"<div class=\"NDToolTip TClass LSystemVerilog\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1748\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">uvm_connect_phase</div></div></div><div class=\"TTSummary\">Establish cross-component connections.</div></div>"});

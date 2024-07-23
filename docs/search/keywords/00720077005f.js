@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rw_",["Variable"],[["rw_info",,[["uvm_reg_frontdoor",,,,0,"File18:uvm_reg_sequence.svh:uvm_reg_frontdoor.rw_info","SystemVerilogClass:uvm_reg_frontdoor:rw_info"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("off",["Variable"],[["offset",,[["uvm_reg_item",,,,0,"File18:uvm_reg_item.svh:uvm_reg_item.offset","SystemVerilogClass:uvm_reg_item:offset"]]]]);

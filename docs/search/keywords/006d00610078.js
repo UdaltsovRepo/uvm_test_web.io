@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("max",["Variable","Function"],[["max_offset",,[["uvm_mem_mam_policy",,,,0,"File18:uvm_mem_mam.svh:uvm_mem_mam_policy.max_offset","SystemVerilogClass:uvm_mem_mam_policy:max_offset"]]],["max_size",,[["uvm_port_base#",,,,1,"File2:uvm_port_base.svh:uvm_port_base_.max_size","SystemVerilogClass:uvm_port_base_:max_size"]]]]);

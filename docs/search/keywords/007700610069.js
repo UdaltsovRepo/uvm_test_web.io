@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wai",["Function"],[["wait_for_state",,[["uvm_phase",,,,0,"File5:uvm_phase.svh:uvm_phase.wait_for_state","SystemVerilogClass:uvm_phase:wait_for_state"]]],["wait_modified",,[["uvm_config_db",,,,0,"File6:uvm_config_db.svh:uvm_config_db.wait_modified","SystemVerilogClass:uvm_config_db:wait_modified"]]]]);

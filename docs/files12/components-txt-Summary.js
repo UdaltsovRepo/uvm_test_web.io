@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File12:components.txt","components.txt");NDSummary.OnSummaryLoaded("File12:components.txt",[["Text File","TextFile"]],[["Groups","Group"]],[[1218,0,0,"Predefined Component Classes","Predefined_Component_Classes"]]);

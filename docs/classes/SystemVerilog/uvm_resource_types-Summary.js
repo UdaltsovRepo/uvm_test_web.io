@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_resource_types","uvm_resource_types");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_resource_types",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1795,0,0,"uvm_resource_types"]]);

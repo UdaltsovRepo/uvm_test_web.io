@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("TextFileClass:Phasing_Implementation","Phasing Implementation");NDSummary.OnSummaryLoaded("TextFileClass:Phasing_Implementation",[["Text File","TextFile"]],[["Classes","Class"]],[[1878,0,0,"Phasing Implementation"]]);

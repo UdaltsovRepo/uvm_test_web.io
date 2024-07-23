@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bod",["Variable","Constant"],[["body",,[["uvm_reg_hw_reset_seq",,,,0,"File18:uvm_reg_hw_reset_seq.svh:uvm_reg_hw_reset_seq.body","SystemVerilogClass:uvm_reg_hw_reset_seq:body"],[,"BODY",,,1,"File20:uvm_object_globals.svh:BODY"]]]]);

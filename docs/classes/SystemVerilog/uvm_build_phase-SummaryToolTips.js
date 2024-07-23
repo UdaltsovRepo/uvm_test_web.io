@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SystemVerilogClass:uvm_build_phase",{1747:"<div class=\"NDToolTip TClass LSystemVerilog\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1747\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">uvm_build_phase</div></div></div><div class=\"TTSummary\">Create and configure of testbench structure</div></div>"});

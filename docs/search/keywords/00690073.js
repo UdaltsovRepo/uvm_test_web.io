@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("is",["Function"],[["is",,[["uvm_phase",,,,0,"File5:uvm_phase.svh:uvm_phase.is","SystemVerilogClass:uvm_phase:is"]]]]);

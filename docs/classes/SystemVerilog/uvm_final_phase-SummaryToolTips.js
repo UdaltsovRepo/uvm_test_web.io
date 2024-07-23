@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SystemVerilogClass:uvm_final_phase",{1755:"<div class=\"NDToolTip TClass LSystemVerilog\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1755\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">uvm_final_phase</div></div></div><div class=\"TTSummary\">Tie up loose ends.</div></div>"});

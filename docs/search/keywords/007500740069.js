@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("uti",["Section"],[["Utility",,[[,"Utility and Field Macros for Components and Objects",,,0,"File16:uvm_object_defines.svh:Utility_and_Field_Macros_for_Components_and_Objects"]]]]);

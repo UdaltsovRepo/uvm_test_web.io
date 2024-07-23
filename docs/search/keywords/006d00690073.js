@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mis",["Variable"],[["miscompares",,[["uvm_comparer",,,,0,"File17:uvm_comparer.svh:uvm_comparer.miscompares","SystemVerilogClass:uvm_comparer:miscompares"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File14:sequencers.txt","sequencers.txt");NDSummary.OnSummaryLoaded("File14:sequencers.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[989,0,0,"Sequencer Classes","Sequencer_Classes"]]);

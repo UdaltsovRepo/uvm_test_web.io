@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("enc",["Function"],[["encode",,[["uvm_reg_cbs",,,,0,"File18:uvm_reg_cbs.svh:uvm_reg_cbs.encode","SystemVerilogClass:uvm_reg_cbs:encode"]]]]);

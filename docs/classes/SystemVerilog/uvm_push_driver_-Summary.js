@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_push_driver_","uvm_push_driver#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_push_driver_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1222,0,0,"uvm_push_driver #(REQ,RSP)"],[1223,0,2,"Functions","Functions"],[1224,0,1,"new","new"]]);

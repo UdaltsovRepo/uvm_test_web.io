@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_post_reset_phase","uvm_post_reset_phase");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_post_reset_phase",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1867,0,0,"uvm_post_reset_phase"]]);

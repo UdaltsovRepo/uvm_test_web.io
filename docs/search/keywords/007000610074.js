@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pat",["Variable","Section"],[["path",,[["uvm_reg_item",,,,0,"File18:uvm_reg_item.svh:uvm_reg_item.path","SystemVerilogClass:uvm_reg_item:path"]]],["Paths",,[[,"HDL Paths Checking Test Sequence",,,1,"File18:uvm_reg_mem_hdl_paths_seq.svh:HDL_Paths_Checking_Test_Sequence"]]]]);

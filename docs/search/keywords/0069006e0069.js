@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ini",["Function"],[["init_access_record",,[["uvm_resource_base",,,,0,"File6:uvm_resource.svh:uvm_resource_base.init_access_record","SystemVerilogClass:uvm_resource_base:init_access_record"]]]]);

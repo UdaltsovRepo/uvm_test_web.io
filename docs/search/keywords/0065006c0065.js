@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ele",["Variable"],[["element",,[["uvm_reg_item",,,,0,"File18:uvm_reg_item.svh:uvm_reg_item.element","SystemVerilogClass:uvm_reg_item:element"]]],["element_kind",,[["uvm_reg_item",,,,0,"File18:uvm_reg_item.svh:uvm_reg_item.element_kind","SystemVerilogClass:uvm_reg_item:element_kind"]]]]);

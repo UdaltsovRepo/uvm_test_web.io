@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File7:synchro.txt",{1533:"<div class=\"NDToolTip TSection LTextFile\"><div class=\"TTSummary\">The UVM provides event and barrier synchronization classes for managing concurrent processes.</div></div>"});

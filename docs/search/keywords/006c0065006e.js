@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("len",["Variable"],[["len",,[["uvm_mem_mam_policy",,,,0,"File18:uvm_mem_mam.svh:uvm_mem_mam_policy.len","SystemVerilogClass:uvm_mem_mam_policy:len"]]]]);

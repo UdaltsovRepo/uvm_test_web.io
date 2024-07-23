@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("adj",["Function"],[["adjust_name",,[["uvm_printer",,,,0,"File17:uvm_printer.svh:uvm_printer.adjust_name","SystemVerilogClass:uvm_printer:adjust_name"]]]]);

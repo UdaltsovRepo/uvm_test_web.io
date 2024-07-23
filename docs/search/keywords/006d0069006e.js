@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("min",["Variable","Function"],[["min_offset",,[["uvm_mem_mam_policy",,,,0,"File18:uvm_mem_mam.svh:uvm_mem_mam_policy.min_offset","SystemVerilogClass:uvm_mem_mam_policy:min_offset"]]],["min_size",,[["uvm_port_base#",,,,1,"File2:uvm_port_base.svh:uvm_port_base_.min_size","SystemVerilogClass:uvm_port_base_:min_size"]]]]);

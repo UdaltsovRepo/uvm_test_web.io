@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dep",["Variable"],[["depth",,[["uvm_printer_knobs",,,,0,"File17:uvm_printer.svh:uvm_printer_knobs.depth","SystemVerilogClass:uvm_printer_knobs:depth"]]]]);

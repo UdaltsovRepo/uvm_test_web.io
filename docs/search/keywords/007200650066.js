@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ref",["Variable"],[["reference",,[["uvm_printer_knobs",,,,0,"File17:uvm_printer.svh:uvm_printer_knobs.reference","SystemVerilogClass:uvm_printer_knobs:reference"]]]]);

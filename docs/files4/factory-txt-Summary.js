@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File4:factory.txt","factory.txt");NDSummary.OnSummaryLoaded("File4:factory.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[1879,0,0,"Factory Classes","Factory_Classes"]]);

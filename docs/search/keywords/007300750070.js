@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sup",["Section","Variable"],[["support",,[[,"UVM HDL Backdoor Access support routines.",,,0,"File18:uvm_hdl.svh:UVM_HDL_Backdoor_Access_support_routines."]]],["supports_byte_enable",,[["uvm_reg_adapter",,,,1,"File18:uvm_reg_adapter.svh:uvm_reg_adapter.supports_byte_enable","SystemVerilogClass:uvm_reg_adapter:supports_byte_enable"]]]]);

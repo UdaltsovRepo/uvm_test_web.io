@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_report_phase","uvm_report_phase");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_report_phase",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1754,0,0,"uvm_report_phase"]]);

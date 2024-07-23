@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File5:test-phasing.txt","test-phasing.txt");NDSummary.OnSummaryLoaded("File5:test-phasing.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[1909,0,0,"User-Defined Phases","User-Defined_Phases"]]);

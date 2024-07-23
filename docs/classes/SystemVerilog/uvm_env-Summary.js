@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_env","uvm_env");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_env",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1219,0,0,"uvm_env"],[1220,0,2,"Functions","Functions"],[1221,0,1,"new","new"]]);

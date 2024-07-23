@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("b_t",["Function"],[["b_transport",,[["uvm_tlm_if",,,,0,"File10:uvm_tlm2_ifs.svh:uvm_tlm_if.b_transport","SystemVerilogClass:uvm_tlm_if:b_transport"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("in_",["Variable"],[["in_use",,[["uvm_mem_mam_policy",,,,0,"File18:uvm_mem_mam.svh:uvm_mem_mam_policy.in_use","SystemVerilogClass:uvm_mem_mam_policy:in_use"]]]]);

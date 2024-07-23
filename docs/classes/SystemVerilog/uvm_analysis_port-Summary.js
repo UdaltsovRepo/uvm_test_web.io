@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_analysis_port","uvm_analysis_port");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_analysis_port",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1233,0,0,"uvm_analysis_port"],[1234,0,2,"Functions","Functions"],[1235,0,1,"write","write"]]);

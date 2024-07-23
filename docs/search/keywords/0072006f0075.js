@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rou",["Section"],[["routines",,[[,"UVM HDL Backdoor Access support routines.",,,0,"File18:uvm_hdl.svh:UVM_HDL_Backdoor_Access_support_routines."]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File13:comparators.txt","comparators.txt");NDSummary.OnSummaryLoaded("File13:comparators.txt",[["Text File","TextFile"]],[["Groups","Group"]],[[1193,0,0,"Comparators","Comparators"]]);

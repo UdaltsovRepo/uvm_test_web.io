@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_shutdown_phase","uvm_shutdown_phase");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_shutdown_phase",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1875,0,0,"uvm_shutdown_phase"]]);

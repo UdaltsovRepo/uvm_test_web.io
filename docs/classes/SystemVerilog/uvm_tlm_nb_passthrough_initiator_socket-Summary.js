@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_tlm_nb_passthrough_initiator_socket","uvm_tlm_nb_passthrough_initiator_socket");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_tlm_nb_passthrough_initiator_socket",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1338,0,0,"uvm_tlm_nb_passthrough_initiator_socket"]]);

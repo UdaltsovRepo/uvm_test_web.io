@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SystemVerilogClass:uvm_start_of_simulation_phase",{1750:"<div class=\"NDToolTip TClass LSystemVerilog\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1750\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">uvm_start_of_simulation_phase</div></div></div><div class=\"TTSummary\">Get ready for DUT to be simulated.</div></div>"});

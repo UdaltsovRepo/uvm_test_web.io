@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File12:uvm_scoreboard.svh","uvm_scoreboard.svh");NDSummary.OnSummaryLoaded("File12:uvm_scoreboard.svh",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1229,0,0,"uvm_scoreboard","uvm_scoreboard"],[1230,0,2,"Functions","uvm_scoreboard.Functions"],[1231,0,1,"new","uvm_scoreboard.new"]]);

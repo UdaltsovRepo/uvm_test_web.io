@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_line_printer","uvm_line_printer");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_line_printer",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Groups","Group"],["Variables","Variable"]],[[822,0,0,"uvm_line_printer"],[823,0,1,"Variables","Variables"],[824,0,2,"new","new"]]);

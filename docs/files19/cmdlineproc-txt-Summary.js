@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File19:cmdlineproc.txt","cmdlineproc.txt");NDSummary.OnSummaryLoaded("File19:cmdlineproc.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[1,0,0,"Command Line Processor Class","Command_Line_Processor_Class"]]);

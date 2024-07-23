@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File18:registers.txt",{377:"<div class=\"NDToolTip TSection LTextFile\"><div class=\"TTSummary\">The UVM register layer defines several base classes that, when properly extended, abstract the read/write operations to registers and memories in a design-under-verification.</div></div>"});

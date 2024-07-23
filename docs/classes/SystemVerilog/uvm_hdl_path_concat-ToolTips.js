@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({179:"<div class=\"NDToolTip TType LSystemVerilog\"><div class=\"TTSummary\">Slice of an HDL path</div></div>"});

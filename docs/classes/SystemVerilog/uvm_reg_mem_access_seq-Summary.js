@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_reg_mem_access_seq","uvm_reg_mem_access_seq");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_reg_mem_access_seq",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[325,0,0,"uvm_reg_mem_access_seq"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("big",["Variable"],[["big_endian",,[["uvm_packer",,,,0,"File17:uvm_packer.svh:uvm_packer.big_endian","SystemVerilogClass:uvm_packer:big_endian"]]]]);

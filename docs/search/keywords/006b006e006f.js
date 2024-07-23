@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("kno",["Variable"],[["knobs",,[["uvm_printer",,,,0,"File17:uvm_printer.svh:uvm_printer.knobs","SystemVerilogClass:uvm_printer:knobs"]]]]);

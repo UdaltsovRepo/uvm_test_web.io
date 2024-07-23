@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("oct",["Variable"],[["oct_radix",,[["uvm_printer_knobs",,,,0,"File17:uvm_printer.svh:uvm_printer_knobs.oct_radix","SystemVerilogClass:uvm_printer_knobs:oct_radix"]]]]);

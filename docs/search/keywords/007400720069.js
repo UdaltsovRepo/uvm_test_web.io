@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tri",["Function"],[["trigger",,[["uvm_event",,,,0,"File7:uvm_event.svh:uvm_event.trigger","SystemVerilogClass:uvm_event:trigger"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_seq_item_pull_export_","uvm_seq_item_pull_export#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_seq_item_pull_export_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1315,0,0,"uvm_seq_item_pull_export #(REQ,RSP)"]]);

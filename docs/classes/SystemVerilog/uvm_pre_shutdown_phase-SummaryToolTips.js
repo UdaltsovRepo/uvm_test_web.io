@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SystemVerilogClass:uvm_pre_shutdown_phase",{1874:"<div class=\"NDToolTip TClass LSystemVerilog\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1874\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">uvm_pre_shutdown_phase</div></div></div><div class=\"TTSummary\">Before things settle down.</div></div>"});

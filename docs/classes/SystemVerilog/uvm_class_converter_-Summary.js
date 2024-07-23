@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_class_converter_","uvm_class_converter#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_class_converter_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1084,0,0,"uvm_class_converter #(T)"]]);

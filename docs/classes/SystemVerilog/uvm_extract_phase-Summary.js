@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_extract_phase","uvm_extract_phase");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_extract_phase",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1752,0,0,"uvm_extract_phase"]]);

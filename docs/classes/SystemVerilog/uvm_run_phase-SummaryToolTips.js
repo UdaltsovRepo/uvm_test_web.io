@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SystemVerilogClass:uvm_run_phase",{1751:"<div class=\"NDToolTip TClass LSystemVerilog\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1751\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">uvm_run_phase</div></div></div><div class=\"TTSummary\">Stimulate the DUT.</div></div>"});

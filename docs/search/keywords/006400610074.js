@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dat",["Variable","Section"],[["data",,[["uvm_reg_bus_op",,,,0,"File18:uvm_reg_item.svh:uvm_reg_bus_op.data","SystemVerilogClass:uvm_reg_bus_op:data"]]],["Database",,[[,"UVM Configuration Database",,,1,"File6:uvm_config_db.svh:UVM_Configuration_Database"],[,"UVM Resource Database",,,1,"File6:uvm_resource_db.svh:UVM_Resource_Database"]]]]);

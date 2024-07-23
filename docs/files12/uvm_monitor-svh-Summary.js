@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File12:uvm_monitor.svh","uvm_monitor.svh");NDSummary.OnSummaryLoaded("File12:uvm_monitor.svh",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1194,0,0,"uvm_monitor","uvm_monitor"],[1195,0,2,"Functions","uvm_monitor.Functions"],[1196,0,1,"new","uvm_monitor.new"]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_port_component_","uvm_port_component#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_port_component_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[2071,0,0,"uvm_port_component #(PORT)"],[2072,0,2,"Functions","Functions"],[2073,0,1,"get_port","get_port"]]);

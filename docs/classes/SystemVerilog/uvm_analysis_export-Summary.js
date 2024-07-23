@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_analysis_export","uvm_analysis_export");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_analysis_export",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1237,0,0,"uvm_analysis_export"],[1238,0,2,"Functions","Functions"],[1239,0,1,"new","new"]]);

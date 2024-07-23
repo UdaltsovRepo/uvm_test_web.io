@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_class_clone_","uvm_class_clone#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_class_clone_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1085,0,0,"uvm_class_clone #(T)"]]);

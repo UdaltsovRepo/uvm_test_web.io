@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("clo",["Function"],[["clone",,[["uvm_object",,,,0,"File2:uvm_object.svh:uvm_object.clone","SystemVerilogClass:uvm_object:clone"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("app",["Function"],[["apply_config_settings",,[["uvm_component",,,,0,"File12:uvm_component.svh:uvm_component.apply_config_settings","SystemVerilogClass:uvm_component:apply_config_settings"]]]]);

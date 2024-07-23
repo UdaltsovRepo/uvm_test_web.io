@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mam",["Variable"],[["mam",,[["uvm_mem",,,,0,"File18:uvm_mem.svh:uvm_mem.mam","SystemVerilogClass:uvm_mem:mam"]]]]);

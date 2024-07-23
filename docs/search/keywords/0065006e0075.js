@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("enu",["Section"],[["Enumerations",,[[,"Types and Enumerations",,,0,"File20:uvm_object_globals.svh:Types_and_Enumerations"]]]]);

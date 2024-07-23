@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SystemVerilogClass:uvm_post_reset_phase",{1867:"<div class=\"NDToolTip TClass LSystemVerilog\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1867\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">uvm_post_reset_phase</div></div></div><div class=\"TTSummary\">After reset is de-asserted.</div></div>"});

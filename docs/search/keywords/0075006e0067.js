@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ung",["Function"],[["ungrab",,[["uvm_sequence_base",,,,0,"File15:uvm_sequence_base.svh:uvm_sequence_base.ungrab","SystemVerilogClass:uvm_sequence_base:ungrab"],["uvm_sequencer_base",,,,0,"File15:uvm_sequencer_base.svh:uvm_sequencer_base.ungrab","SystemVerilogClass:uvm_sequencer_base:ungrab"]]]]);

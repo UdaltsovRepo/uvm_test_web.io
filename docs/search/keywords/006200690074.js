@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bit",["Section"],[["Bit",,[[,"Bit Bashing Test Sequences",,,0,"File18:uvm_reg_bit_bash_seq.svh:Bit_Bashing_Test_Sequences"]]]]);

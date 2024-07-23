@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("unl",["Function"],[["unlock",,[["uvm_sequence_base",,,,0,"File15:uvm_sequence_base.svh:uvm_sequence_base.unlock","SystemVerilogClass:uvm_sequence_base:unlock"],["uvm_sequencer_base",,,,0,"File15:uvm_sequencer_base.svh:uvm_sequencer_base.unlock","SystemVerilogClass:uvm_sequencer_base:unlock"]]]]);

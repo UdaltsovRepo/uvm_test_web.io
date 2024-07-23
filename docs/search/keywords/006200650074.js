@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bet",["Section"],[["Between",,[[,"Classes for Adapting Between Register and Bus Operations",,,0,"File18:uvm_reg_adapter.svh:Classes_for_Adapting_Between_Register_and_Bus_Operations"]]]]);

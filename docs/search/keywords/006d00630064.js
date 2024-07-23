@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mcd",["Variable"],[["mcd",,[["uvm_printer_knobs",,,,0,"File17:uvm_printer.svh:uvm_printer_knobs.mcd","SystemVerilogClass:uvm_printer_knobs:mcd"]]]]);

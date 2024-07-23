@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_reg_cbs","uvm_reg_cbs");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_reg_cbs",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[607,0,0,"uvm_reg_cbs"],[608,0,2,"Functions","Functions"],[609,0,1,"encode","encode"],[610,0,1,"decode","decode"]]);

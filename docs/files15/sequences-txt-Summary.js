@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File15:sequences.txt","sequences.txt");NDSummary.OnSummaryLoaded("File15:sequences.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[943,0,0,"Sequence Classes","Sequence_Classes"]]);

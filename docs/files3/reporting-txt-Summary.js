@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File3:reporting.txt","reporting.txt");NDSummary.OnSummaryLoaded("File3:reporting.txt",[["Text File","TextFile"]],[["Groups","Group"]],[[1910,0,0,"Reporting Classes","Reporting_Classes"]]);

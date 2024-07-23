@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_driver_","uvm_driver#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_driver_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1210,0,0,"uvm_driver #(REQ,RSP)"],[1211,0,2,"Functions","Functions"],[1212,0,1,"new","new"]]);

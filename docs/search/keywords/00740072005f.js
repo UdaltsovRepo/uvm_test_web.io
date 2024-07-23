@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tr_",["Variable"],[["tr_handle",,[["uvm_recorder",,,,0,"File17:uvm_recorder.svh:uvm_recorder.tr_handle","SystemVerilogClass:uvm_recorder:tr_handle"]]]]);

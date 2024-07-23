@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_subscriber","uvm_subscriber");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_subscriber",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1182,0,0,"uvm_subscriber"],[1183,0,2,"Functions","Functions"],[1184,0,1,"new","new"],[1185,0,1,"write","write"]]);

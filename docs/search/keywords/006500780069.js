@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("exi",["Function"],[["exists",,[["uvm_config_db",,,,0,"File6:uvm_config_db.svh:uvm_config_db.exists","SystemVerilogClass:uvm_config_db:exists"],["uvm_pool#",,,,0,"File8:uvm_pool.svh:uvm_pool_.exists","SystemVerilogClass:uvm_pool_:exists"]]]]);

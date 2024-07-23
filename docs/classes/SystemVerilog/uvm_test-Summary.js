@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_test","uvm_test");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_test",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1190,0,0,"uvm_test"],[1191,0,2,"Functions","Functions"],[1192,0,1,"new","new"]]);

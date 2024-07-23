@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File8:containers.txt","containers.txt");NDSummary.OnSummaryLoaded("File8:containers.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[1500,0,0,"Container Classes","Container_Classes"]]);

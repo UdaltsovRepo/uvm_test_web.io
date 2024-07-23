@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({55:"<div class=\"NDToolTip TEnumeration LSystemVerilog\"><div class=\"TTSummary\">Specifies the radix to print or record in.</div></div>"});

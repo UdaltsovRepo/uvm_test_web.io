@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File16:uvm_callback_defines.svh",{935:"<div class=\"NDToolTip TSection LSystemVerilog\"><div class=\"TTSummary\">These macros are used to register and execute callbacks extending from ~uvm_callbacks~.</div></div>"});

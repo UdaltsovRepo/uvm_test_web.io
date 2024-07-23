@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ver",["Variable"],[["verbosity",,[["uvm_comparer",,,,0,"File17:uvm_comparer.svh:uvm_comparer.verbosity","SystemVerilogClass:uvm_comparer:verbosity"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_tlm_b_transport_imp","uvm_tlm_b_transport_imp");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_tlm_b_transport_imp",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1283,0,0,"uvm_tlm_b_transport_imp"]]);

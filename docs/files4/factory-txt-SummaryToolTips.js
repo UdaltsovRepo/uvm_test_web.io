@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File4:factory.txt",{1879:"<div class=\"NDToolTip TSection LTextFile\"><div class=\"TTSummary\">As the name implies, the uvm_factory is used to manufacture (create) UVM objects and components. Only one instance of the factory is present in a given simulation.</div></div>"});

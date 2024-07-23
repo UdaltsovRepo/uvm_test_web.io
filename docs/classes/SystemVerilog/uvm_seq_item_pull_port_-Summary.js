@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_seq_item_pull_port_","uvm_seq_item_pull_port#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_seq_item_pull_port_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1314,0,0,"uvm_seq_item_pull_port #(REQ,RSP)"]]);

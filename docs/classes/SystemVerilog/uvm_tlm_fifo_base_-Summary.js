@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_tlm_fifo_base_","uvm_tlm_fifo_base#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_tlm_fifo_base_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1391,0,0,"uvm_tlm_fifo_base #(T)"],[1392,0,2,"Functions","Functions"],[1393,0,1,"new","new"]]);

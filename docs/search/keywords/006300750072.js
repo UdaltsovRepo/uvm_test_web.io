@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cur",["Function"],[["current_grabber",,[["uvm_sequencer_base",,,,0,"File15:uvm_sequencer_base.svh:uvm_sequencer_base.current_grabber","SystemVerilogClass:uvm_sequencer_base:current_grabber"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:intro.txt",{2168:"<div class=\"NDToolTip TSection LTextFile\"><div class=\"TTSummary\">The UVM Class Library provides the building blocks needed to quickly develop well-constructed and reusable verification components and test environments in SystemVerilog.</div></div>"});

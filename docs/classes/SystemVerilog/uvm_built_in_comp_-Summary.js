@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_built_in_comp_","uvm_built_in_comp#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_built_in_comp_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1080,0,0,"uvm_built_in_comp #(T)"]]);

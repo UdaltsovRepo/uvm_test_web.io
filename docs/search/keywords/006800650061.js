@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hea",["Variable"],[["header",,[["uvm_printer_knobs",,,,0,"File17:uvm_printer.svh:uvm_printer_knobs.header","SystemVerilogClass:uvm_printer_knobs:header"]]]]);

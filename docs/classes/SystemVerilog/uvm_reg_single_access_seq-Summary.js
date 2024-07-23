@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_reg_single_access_seq","uvm_reg_single_access_seq");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_reg_single_access_seq",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"],["Groups","Group"],["Variables","Variable"]],[[318,0,0,"uvm_reg_single_access_seq"],[319,0,1,"Variables","Variables"],[320,0,2,"rg","rg"]]);

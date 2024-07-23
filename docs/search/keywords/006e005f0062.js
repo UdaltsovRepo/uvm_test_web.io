@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("n_b",["Variable"],[["n_bits",,[["uvm_reg_bus_op",,,,0,"File18:uvm_reg_item.svh:uvm_reg_bus_op.n_bits","SystemVerilogClass:uvm_reg_bus_op:n_bits"]]],["n_bytes",,[["uvm_mem_mam_cfg",,,,0,"File18:uvm_mem_mam.svh:uvm_mem_mam_cfg.n_bytes","SystemVerilogClass:uvm_mem_mam_cfg:n_bytes"]]]]);

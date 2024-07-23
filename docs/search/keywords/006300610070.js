@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cap",["Function"],[["capacity",,[["uvm_reg_fifo",,,,0,"File18:uvm_reg_fifo.svh:uvm_reg_fifo.capacity","SystemVerilogClass:uvm_reg_fifo:capacity"]]]]);

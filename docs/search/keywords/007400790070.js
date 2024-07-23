@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("typ",["Variable","Section"],[["type_name",,[["uvm_printer_knobs",,,,0,"File17:uvm_printer.svh:uvm_printer_knobs.type_name","SystemVerilogClass:uvm_printer_knobs:type_name"]]],["Typedefs",,[[,,,,1,"File18:uvm_reg_cbs.svh:Typedefs"]]],["Types",,[[,"Types and Enumerations",,,1,"File20:uvm_object_globals.svh:Types_and_Enumerations"]]]]);

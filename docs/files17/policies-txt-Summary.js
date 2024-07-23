@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File17:policies.txt","policies.txt");NDSummary.OnSummaryLoaded("File17:policies.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[724,0,0,"Policy Classes","Policy_Classes"]]);

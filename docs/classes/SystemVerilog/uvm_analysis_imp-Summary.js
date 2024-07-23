@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_analysis_imp","uvm_analysis_imp");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_analysis_imp",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1236,0,0,"uvm_analysis_imp"]]);

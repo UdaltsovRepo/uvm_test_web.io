@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("SystemVerilogClass:uvm_in_order_built_in_comparator_","uvm_in_order_built_in_comparator#");NDSummary.OnSummaryLoaded("SystemVerilogClass:uvm_in_order_built_in_comparator_",[["SystemVerilog","SystemVerilog"]],[["Classes","Class"]],[[1180,0,0,"uvm_in_order_built_in_comparator #(T)"]]);
